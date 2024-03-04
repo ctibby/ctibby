@@ -5,7 +5,7 @@ Welcome to my GitHub corner! I'm a data analytics enthusiast who recently packed
 ## 🚀 About Me
 - **New to Palo Alto**: Just relocated here and soaking up every bit of innovation and tech vibes this place has to offer.
 - **Data Analytics Buff**: Skilled in Python, SQL, Power BI, and always on the lookout for the next cool data visualization tool.
-- **GitHub Newbie**: Created this account to showcase my projects, share my data-driven journey, and connect with the vibrant tech community.
+- **GitHub Newbie**: Created this account to showcase some new projects, share my data-driven journey, and connect with the vibrant tech community.
 
 ## 🏐 Hobbies Galore
 - **Beach Volleyball**: There's nothing like a game on the sand under the sunny California sky.
