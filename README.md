@@ -10,7 +10,7 @@ Welcome to my GitHub corner! I'm a data analytics enthusiast who recently packed
 ## 🏐 Hobbies Galore
 - **Beach Volleyball**: There's nothing like a game on the sand under the sunny California sky.
 - **Camping/Backpacking**: Trading data models for trail maps on the weekends.
-- **Snowboarding**: Hitting the slopes and enjoying the fresh powder whenever I get the chance.
+- **Riding Motorcycles**: There's nothing like the freedom of the open road.
 
 ## 💼 On the Hunt
 I'm on the lookout for opportunities to leverage my data analytics skills in this dynamic region. If you know of any roles that could use someone passionate about turning data into actionable insights, or if you just want to talk data, volleyball, or the great outdoors, I'm your guy!
